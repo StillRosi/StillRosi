@@ -1,3 +1,2 @@
-<img align='left' alt="StillRosi's GitHub Stats" 
-    src='https://github-readme-stats.vercel.app/api?username=StillRosi&show_icons=true&hide_border=true'
-/>
+![Nico's GitHub stats](https://github-readme-stats.vercel.app/api?username=StillRosi&show_icons=true&theme=onedark&count_private=true)
+![Top used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=StillRosi&layout=compact)
