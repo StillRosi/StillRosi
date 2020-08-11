@@ -1,2 +1,2 @@
 ![Nico's GitHub stats](https://github-readme-stats.vercel.app/api?username=StillRosi&show_icons=true&theme=onedark&count_private=true)
-![Top used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=StillRosi&layout=compact)
+![Top used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=StillRosi&layout=compact&theme=onedark)
