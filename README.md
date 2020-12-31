@@ -2,4 +2,4 @@
 
 ![Top used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=StillRosi&layout=compact&theme=dracula)
 
-## Eager to learn something new every day and exploring / exploiting the boundaries. :alien:
+### Eager to learn something new every day and explore / exploit the boundaries. :alien:
