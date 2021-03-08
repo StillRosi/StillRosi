@@ -1,6 +1,6 @@
 #### Eager to learn something new every day and explore / exploit the boundaries. :alien:
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=StillRosi&show_icons=true&theme=dark&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StillRosi&theme=dark&langs_count=6&count_private=true&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=StillRosi&show_icons=true&theme=radical&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StillRosi&theme=radical&langs_count=6&count_private=true&layout=compact" />
 </div>
